@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: "https://author-p197706-e2043053.adobeaemcloud.com/bin/franklin.delivery/aem-epa/frescopa-bugbash-sep-2026-1/main"
+    type: "markup"
+    suffix: ".html"
+folders:
+  /products/: /products/default

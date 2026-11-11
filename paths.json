@@ -1,0 +1,32 @@
+{
+  "mappings": [
+    "/content/bugbash-sep-2026/:/",
+    "/content/bugbash-sep-2026/en/:/",
+    "/content/bugbash-sep-2026/metadata:/metadata.json",
+    "/content/bugbash-sep-2026/en/placeholders:/placeholders.json",
+    "/content/bugbash-sep-2026/en/locations/locationslist:/locations.json",
+    "/content/bugbash-sep-2026/es:/es",
+    "/content/bugbash-sep-2026/es/:/es/",
+    "/content/bugbash-sep-2026/es/placeholders:/placeholders.json",
+    "/content/bugbash-sep-2026/es/locations/locationslist:/es/locations.json",
+    "/content/bugbash-sep-2026/fr:/fr",
+    "/content/bugbash-sep-2026/fr/:/fr/",
+    "/content/bugbash-sep-2026/fr/placeholders:/placeholders.json",
+    "/content/bugbash-sep-2026/fr/locations/locationslist:/fr/locations.json",
+    "/content/bugbash-sep-2026/jp:/jp",
+    "/content/bugbash-sep-2026/jp/:/jp/",
+    "/content/bugbash-sep-2026/jp/placeholders:/placeholders.json",
+    "/content/bugbash-sep-2026/jp/locations/locationslist:/jp/locations.json",
+    "/content/bugbash-sep-2026/configuration:/.helix/config.json",
+    "/content/bugbash-sep-2026/headers:/.helix/headers.json",
+    "/content/bugbash-sep-2026/metadata:/metadata.json",
+    "/content/bugbash-sep-2026/configs:/configs.json",
+    "/content/bugbash-sep-2026/configs-dev:/configs-dev.json",
+    "/content/bugbash-sep-2026/configs-stage:/configs-stage.json"
+  ],
+  "includes": [
+    "/content/bugbash-sep-2026/",
+    "/content/dam/bugbash-sep-2026/",
+    "/content/forms/af"
+  ]
+}
